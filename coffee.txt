@@ -1,0 +1,12 @@
+Ingredients:
+ - Coffee beans
+ - Water
+ - Sugar
+ - Cream
+
+Directions:
+ 1. Grind coffee beans.
+ 2. Place into coffee filter.
+ 3. Pour water into reservoir of coffee maker.
+ 4. Turn on and wait.
+ 5. Add sugar and cream.
